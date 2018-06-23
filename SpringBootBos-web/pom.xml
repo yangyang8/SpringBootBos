@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.hailong</groupId>
+    <artifactId>SpringBootBos</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>SpringBootBos-web</artifactId>
+  <packaging>war</packaging>
+  <description>这个工程是我们展现层的子工程</description>
+  
+  <!-- 和我们子工程SpringBootBos-service建立起关联 -->
+  <dependencies>
+  	<dependency>
+  		<groupId>com.hailong</groupId>
+  		<artifactId>SpringBootBos-service</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	
+  </dependencies>
+</project>

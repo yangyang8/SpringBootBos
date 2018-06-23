@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "www.hailong.bos.config.C3P0DataSourceConfig",
+      "name": "spring.datasource",
+      "type": "www.hailong.bos.config.C3P0DataSourceConfig"
+    }
+  ],
+  "properties": []
+}
