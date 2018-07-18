@@ -5,24 +5,26 @@
 前端使用的是easyui,echart,百地图Api,后端使用的Spring boot,Spring boot jpa,hibernate,mysql,shiro等
 项目名：基于自定义数据流开发的图书订购管理系统，仓库地址：https://github.com/yangyang8/SpringBootBos 负责人：杨海龙
 
-1.4是本项目自定义工作流开发的一个效果如下
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos02.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos03.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos10.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos04.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos05.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos06.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos07.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos08.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos09.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos11.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos12.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos13.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos14.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos15.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos16.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos17.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos18.png)
-![](https://github.com/yangyang8/SpringBootBos/raw/master/src/main/resources/bos01.png)
+
+
+下面的是物流管理系统的一个大概效果如下
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos02.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos03.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos10.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos04.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos05.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos06.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos07.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos08.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos09.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos11.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos12.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos13.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos14.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos15.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos16.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos17.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos18.png)
+![](https://github.com/yangyang8/SpringBootBos/raw/master/SpringBootBos-web/src/main/resources/bos01.png)
 
 下载代码 $ https://github.com/yangyang8/SpringBootBos.git
